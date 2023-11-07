@@ -1,0 +1,11 @@
+# MLSM_Lecture2_120923
+1. a  Basic conception
+2. 156 Lecture 2 page 25  m ≥ 1/ε (log(|H|) + log( 1/δ ))  e is the base of the natural logarithm , H is 3^5
+3. b  you just need to follow the defination  if you have doubuts, you should understand the distrubution is fixed.\
+4. b  About 77-80 samples 
+5. c  269
+
+The question 4 and 5 based on the quiz2_template.py and the data had already been divided in quiz2_datafiles.
+'''
+You can find the anwer from the quiz2_template_solution.ipynb,Written by Yoja Wang , Major at Data science, Her Github account is yokieeeee
+''' 

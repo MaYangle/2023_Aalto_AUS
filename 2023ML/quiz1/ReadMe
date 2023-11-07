@@ -1,0 +1,8 @@
+MLSM_Lecture1_050923
+The answers of the file 1 are
+1. Regression,Binary classification,Ranking, Multi-lable classificatiom
+2. a
+3. b
+4. a calculated by the quiz1/error-analysis.py
+5. We both think d is right, Recall is the best evaluation metric, SVM performs better than LR. However the answer is wrong
+
