@@ -2,3 +2,8 @@
 You can find the initial question in exc3_qs_2023.pdf
 '''
 1. 0.2917 you can find how i calculate in quiz3-1.py
+2. b In lecture5 you can see the percepton algorithm will stop after at most t <= (2R/y).^2  
+Y means the largest achievable geometric margin so that all training examples have at least that margin 
+R means the small radius of the d-dimensional ball that encloses the training data  
+Y more, R less ,more easier to converage , so the noramlization doesn't affect the iterations
+3. 
