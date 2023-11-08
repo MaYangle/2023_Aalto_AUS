@@ -6,4 +6,5 @@ You can find the initial question in exc3_qs_2023.pdf
 Y means the largest achievable geometric margin so that all training examples have at least that margin 
 R means the small radius of the d-dimensional ball that encloses the training data  
 Y more, R less ,more easier to converage , so the noramlization doesn't affect the iterations
-3. a the initial python file is quiz 3_3 initial, you can find my answer in quiz 3_3 
+3. a the initial python file is quiz_3_3_initial.py, you can find my answer in quiz_3_3.py 
+4. d It's easy to modify the iteration range , you can find the solution in quize_3_4.py
