@@ -1,0 +1,6 @@
+1. a If the dimension of the explicit feature space be 15, use the binomial theorem. 
+suppose m are the dimension of that vector space. Then the answer should be C(m+q)(m) = C(m+q)(q) = 15 
+2. c You can see, If  λ > 1 ,It can lead the anwer to almost zero, which after the sum,  it will be approaching bounded positive values.
+3. c When building the new kernel function,we use the gradient of the density function rather than the density function.
+4. d you can find the initial file in quiz4_question_4_hint.py, my answer is in quiz4_question_4_solution.py
+                                                 
