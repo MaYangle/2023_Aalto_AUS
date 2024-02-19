@@ -1,0 +1,12 @@
+MLSM_Lecture1_050923
+The answers of the file 1 are
+1. Regression,Binary classification,Ranking, Multi-lable classificatiom
+2. a
+3. b
+4. a calculated by the quiz1_template.py
+5. We both think d is right, Recall is the best evaluation metric, SVM performs better than LR. However the answer is wrong
+Maybe b is right, because this question focus on the malignant disease. So Recall is more important
+
+I understand the last one now. Suppose we catch the fish. The whole lake has 100 fish.
+The bigger net: we catch 80 fish and 80 rocks. Recall: 80%    Precision:50%
+The smaller net: we only catch 20 fish   Recall: 20%   Precision: 100%
